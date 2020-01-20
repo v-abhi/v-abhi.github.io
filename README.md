@@ -1,6 +1,7 @@
 # lineage-of-abrahmic-religion
-It describes lineage ancestry of abrahmic religion from "Adam and Eve" to "Judaism", "Islam" and "Christianity". 
-Source :- "wikipedia"
+It describes lineage ancestry of abrahmic religion from "Adam and Eve" to founders of "Judaism", "Islam" and "Christianity" and their detailed profile. 
+
+# Source :- "wikipedia"
 
 
   
